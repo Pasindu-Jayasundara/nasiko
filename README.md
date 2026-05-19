@@ -25,6 +25,11 @@
 
 Nasiko is a developer control plane that transforms how you build, deploy, and manage AI agents at scale. Built with modern microservices architecture, Nasiko provides everything needed to run production AI agent ecosystems.
 
+### Demo Video
+
+[![Watch the video](https://youtu.be/goZRQDuQv9I?si=zUGkov-GKyEz0Kuz)](https://youtu.be/goZRQDuQv9I?si=zUGkov-GKyEz0Kuz)
+
+
 ### 🎯 Core Capabilities
 
 **Agent Lifecycle Management:**
